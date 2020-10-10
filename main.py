@@ -1,5 +1,5 @@
 '''
-Assessment
+Assessment:
 Congratulations on going through today's course! Hopefully you've learned some valuable skills along the way.
 Now it's time to put those skills to the test. In this assessment you will train a new model that is able to
 recognize fresh and rotten fruit. You will need to get the model to a validation accuracy of 92% in order to
