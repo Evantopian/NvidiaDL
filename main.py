@@ -69,8 +69,9 @@ model.fit(train_it, steps_per_epoch=12, validation_data=test_it, validation_step
 
 # evaluate the model's accuracy and validation accuracy.
 model.evaluate(test_it, steps=test_it.samples / test_it.batch_size)
-# My validation accuracy in my Jupyter notebook was a 98.87%. Percent to pass: 92%
 
+
+# My validation accuracy in my Jupyter notebook was a 98.87%. Percent to pass: 92%
 
 '''
 # run to see whether 
