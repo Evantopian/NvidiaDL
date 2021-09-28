@@ -1,0 +1,2 @@
+Model can be saved once you download the code. However, you would need to implement the images beforehand to run
+the model in ASL_DataAug.py.
